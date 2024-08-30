@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472380697079",
+    "project_id": "chatbotandimagegen",
+    "storage_bucket": "chatbotandimagegen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472380697079:android:a589b970dbc1faeec9a6f2",
+        "android_client_info": {
+          "package_name": "com.jagoteori.chatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472380697079-ujro3udjq41tj9c6qolaqbcr25ggpb3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jagoteori.chatgpt",
+            "certificate_hash": "07ccd1acb10cc5853a89a8a52fc30da6ab156b76"
+          }
+        },
+        {
+          "client_id": "472380697079-58apbi3emr2ibo3a2h5na159q305r5o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYotx5K4LBX1v8KFAOTXgibBK-HzK9IIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472380697079-58apbi3emr2ibo3a2h5na159q305r5o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
